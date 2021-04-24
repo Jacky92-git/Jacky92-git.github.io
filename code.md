@@ -1,7 +1,7 @@
 ---
 title: Code review
 subtitle: teacher's cord
-layout: "post"
+layout: post
 icon: fa-archive
 order: 4
 ---
