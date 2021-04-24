@@ -1,9 +1,9 @@
 ---
 title: Reading List
 subtitle: a list of books I read
-layout: "page"
-icon: fa-book
-order: 3
+layout: post
+
+order: 1
 ---
 
 I love books! Here are some I'm reading now:
